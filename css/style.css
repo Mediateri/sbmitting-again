@@ -123,13 +123,25 @@ textarea {
     margin-left: 200px;
 }
 
-.identification label {
+.expand {
+    width: 150px;
+}
+
+.identification table label {
     width: 150px;
 }
 
 .identification input[type=submit]:hover {
     background-color: #9e9595;
     float: center;
+}
+
+.identification form {
+    width: 630px;
+}
+
+.identification table {
+    width: 630px;
 }
 
 h2 {
