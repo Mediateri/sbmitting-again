@@ -110,9 +110,10 @@ textarea {
     resize: vertical;
 }
 
-.identification textarea {
+
+/* .identification textarea {
     height: 7rem;
-}
+} */
 
 .identification input[type=submit] {
     background-color: #73c6b6;
@@ -125,6 +126,7 @@ textarea {
 
 .expand {
     width: 150px;
+    height: 7rem;
 }
 
 .identification table label {
